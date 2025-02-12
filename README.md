@@ -3,7 +3,7 @@
 
 ## 1. Introduction  
 
-The **Lag Theory**, developed by Brendan Werth, proposes that reality does not unfold in a continuous stream but in **discrete updates**, like frames in a film or steps in a computation. This theory suggests that what we perceive as the "flow" of time is actually the result of **delayed processing cycles** at the fundamental level of existence.  
+The **Lag Theory** proposes that reality does not unfold in a continuous stream but in **discrete updates**, like frames in a film or steps in a computation. This theory suggests that what we perceive as the "flow" of time is actually the result of **delayed processing cycles** at the fundamental level of existence.  
 
 By understanding lag as the missing link between **quantum mechanics, relativity, and complexity growth**, we gain a new perspective on how the universe operates—and why our perception of reality is always slightly behind its true state.  
 
