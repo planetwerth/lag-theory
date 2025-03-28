@@ -1,7 +1,3 @@
-Here’s an improved and refined version of the Lag Theory paper, incorporating clarity, structure, and scientific grounding while preserving its innovative core:
-
----
-
 # **Lag Theory: A Unified Framework for Reality**  
 ### By Brendan Werth  
 
